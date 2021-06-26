@@ -1,6 +1,6 @@
 # FileManagement
 
-The project implements the following project -
+The project implements the following functionalities -
 
 Code to display the welcome screen. It should display:
 
